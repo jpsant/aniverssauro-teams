@@ -1,12 +1,10 @@
-date_of_birthday,name,department
-02/06,Carolina Souza,Desenvolvimento,
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
-12/08,João Paulo,Desenvolvimento
+birthday,name,department,gender
+02/06,Carolina Souza,Desenvolvimento,F
+16/08,João Paulo,Desenvolvimento,M
+12/08,João Paulo,Desenvolvimento,M
+12/08,João Paulo,Desenvolvimento,M
+12/08,João Paulo,Desenvolvimento,M
+12/08,João Paulo,Desenvolvimento,M
+12/08,João Paulo,Desenvolvimento,M
+12/08,João Paulo,Desenvolvimento,M
+17/08,Maria Targino,Calculo Trabalhista,F
